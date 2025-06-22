@@ -1,0 +1,25 @@
+# Ignore virtual environment
+venv/
+ENV/
+env/
+.venv/
+build/
+dist/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build
+build/
+dist/
+*.spec
+
+# VSCode & other editor settings
+.vscode/
+*.code-workspace
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
